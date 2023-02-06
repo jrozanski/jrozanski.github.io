@@ -5,10 +5,6 @@
     <link>https://jarekrozanski.eu/</link>
     <description>Recent content on Jarek Rozanski - Scala, Java, Search, and Distributed Systems Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://jarekrozanski.eu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://jarekrozanski.eu/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
