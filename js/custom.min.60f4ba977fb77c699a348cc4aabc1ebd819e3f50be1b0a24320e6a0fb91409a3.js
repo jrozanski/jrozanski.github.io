@@ -1,1 +1,0 @@
-function ready(a){document.readyState!='loading'?a(event):document.addEventListener("DOMContentLoaded",a)}ready(b=>{let a=document.querySelector("[aria-label='Email']");a.setAttribute("href",atob("bWFpbHRvOmpyb3phbnNraUBpbnB1dG9iamVjdHMuZXUK"))})
